@@ -1,0 +1,26 @@
+<----- Requirement ----->
+
+*just past on cmd or terminal
+
+-> pip install opencv-python
+-> pip install imutils
+-> pip install scipy
+-> pip install pygame
+-> pip install cmake
+-> pip install <- Select file as python version -> / pip install dlib-binary
+ 
+dlib binary files:
+
+git clone https://github.com/Murtaza-saeed/dlib.git
+
+url https://github.com/Murtaza-saeed/dlib
+
+
+
+select dlib file as cordination with python version:
+
+python 3.7  -> dlib-19.22.99-cp37-cp37m-win_amd64.whl
+python 3.8  -> dlib-19.22.99-cp38-cp38-win_amd64.whl
+python 3.9  -> dlib-19.22.99-cp39-cp39-win_amd64.whl
+python 3.10 -> dlib_binary-19.24.1-cp310-cp310-win_amd64.whl
+python 3.11 -> dlib-19.24.1-cp311-cp311-win_amd64.whl
