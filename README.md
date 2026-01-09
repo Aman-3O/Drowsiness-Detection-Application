@@ -1,15 +1,59 @@
-﻿# Drowsiness Detection Application
+# Real-Time Drowsiness Detection App
+<img width="1536" height="1024" alt="ChatGPT Image Jan 7, 2026, 10_38_58 PM" src="https://github.com/user-attachments/assets/c62724e9-125c-4463-a4a7-6ec5c6ed1f3c" />
 
-📌 Overview The Real-Time Drowsiness Detection App is a computer vision based application designed to detect driver fatigue in real time. It monitors facial features and eye movements to identify signs of drowsiness and triggers alerts to help prevent fatigue-related accidents.
+# Introduction :
+Driver drowsiness is one of the most underestimated causes of road accidents. Unlike speeding or drunk driving, fatigue develops gradually and often goes unnoticed by the driver. This project focuses on detecting early signs of drowsiness using computer vision techniques and providing timely alerts to reduce the risk of accidents.
 
-❗ Problem Statement Driver drowsiness is a major cause of road accidents worldwide. Long driving hours, lack of sleep, medications, or medical conditions can reduce alertness, making drivers prone to accidents. Early detection is critical for road safety.
+The Real-Time Drowsiness Detection App continuously analyzes facial cues and eye behavior through a live camera feed to identify fatigue in real time.
 
-🧠 How It Works Detects face and eyes using Haar Cascades Calculates Eye Aspect Ratio (EAR) from facial landmarks Identifies prolonged eye closure as a sign of drowsiness Triggers real-time alerts when fatigue is detected
+# Motivation :
+During long drives or night shifts, drivers may experience reduced alertness due to lack of sleep, stress, or medical conditions. Traditional safety measures do not actively monitor a driver’s condition. This project was built to explore how computer vision and lightweight machine learning techniques can be used to improve road safety without relying on expensive hardware or intrusive sensors.
 
-⭐ Key Features Real-time drowsiness detection Accurate eye state analysis using EAR Instant alert system for preventive action Combines Computer Vision & Machine Learning Privacy-focused (no data storage)
+# System Overview :
+The application processes a real-time video stream and performs the following steps:
+1. Detects the driver’s face and eyes using Haar Cascade classifiers.
+2. Extracts facial landmarks around the eyes.
+3. Computes the Eye Aspect Ratio (EAR) to determine whether the eyes are open or closed.
+4. Monitors eye closure duration to identify signs of drowsiness.
+5. Triggers an alert when the EAR remains below a defined threshold for a specific time period.
 
-🛠️ Technologies Used Python OpenCV Haar Cascades Eye Aspect Ratio (EAR) Machine Learning
+This approach allows the system to respond quickly while remaining computationally efficient.
 
-🎯 Impact This project demonstrates how computer vision can be effectively used to enhance road safety by detecting drowsiness early and alerting drivers in real time.
+# Key Features :
+Real-time face and eye detection using a webcam
+Eye Aspect Ratio (EAR) based fatigue analysis
+Immediate alerts to warn the driver
+Lightweight and efficient processing
+Privacy focused design with no data storage
 
+# Technologies Used :
+* Python - Core programming language
+
+* OpenCV - Image processing and real-time video analysis
+
+* Haar Cascades - Face and eye detection
+
+* Eye Aspect Ratio (EAR) - Drowsiness detection logic
+
+* Machine Learning concepts - Feature analysis and thresholding
+
+# Privacy Considerations :
+User privacy was a key design consideration in this project. All processing is done locally and in real time. No images, videos, or personal data are stored or transmitted, ensuring complete user confidentiality.
+
+# Results :
+The system is capable of reliably detecting prolonged eye closure and issuing alerts in real time. It performs well under normal lighting conditions and demonstrates how simple yet effective computer vision techniques can be applied to real world safety problems.
+
+# Limitations :
+Performance may degrade under poor lighting conditions
+Does not account for head pose or yawning detection
+Requires a stable camera position
+
+# Future Improvements :
+Integration of head pose and yawn detection
+Support for low light environments
+Mobile application deployment
+Improved alert mechanisms (audio + vibration)
+
+# Timeline :
+September 2024 - December 2025
 
