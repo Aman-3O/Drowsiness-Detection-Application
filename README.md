@@ -1,5 +1,4 @@
 # Real-Time Drowsiness Detection Application
-<img width="1536" height="1024" alt="ChatGPT Image Jan 7, 2026, 10_38_58 PM" src="https://github.com/user-attachments/assets/c62724e9-125c-4463-a4a7-6ec5c6ed1f3c" />
 
 # Introduction :
 Driver drowsiness is one of the most underestimated causes of road accidents. Unlike speeding or drunk driving, fatigue develops gradually and often goes unnoticed by the driver. This project focuses on detecting early signs of drowsiness using computer vision techniques and providing timely alerts to reduce the risk of accidents.
@@ -56,5 +55,6 @@ Improved alert mechanisms (audio + vibration)
 
 # Timeline :
 September 2024 - December 2025
+
 
 
