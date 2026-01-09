@@ -1,4 +1,4 @@
-# Real-Time Drowsiness Detection App
+# Real-Time Drowsiness Detection Application
 <img width="1536" height="1024" alt="ChatGPT Image Jan 7, 2026, 10_38_58 PM" src="https://github.com/user-attachments/assets/c62724e9-125c-4463-a4a7-6ec5c6ed1f3c" />
 
 # Introduction :
@@ -56,4 +56,5 @@ Improved alert mechanisms (audio + vibration)
 
 # Timeline :
 September 2024 - December 2025
+
 
