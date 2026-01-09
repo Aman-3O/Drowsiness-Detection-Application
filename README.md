@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/Aman-3O/Personal-Resource/blob/eff55fa8f6881965222a50f0e08eb31f17451a5e/drowsiness-banner.png" alt="Real-Time Drowsiness Detection" width="900"/>
 </p>
+<img width="1536" height="1024" alt="drowsiness-banner" src="https://github.com/user-attachments/assets/bec775df-69a2-44cb-b8c9-5728a547aa88" />
 
 
 # Introduction :
@@ -60,6 +61,7 @@ Improved alert mechanisms (audio + vibration)
 
 # Timeline :
 September 2024 - December 2025
+
 
 
 
