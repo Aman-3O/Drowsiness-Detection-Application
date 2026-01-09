@@ -1,10 +1,8 @@
 # Real-Time Drowsiness Detection Application
 
 <p align="center">
-  <img src="https://github.com/Aman-3O/Personal-Resource/blob/eff55fa8f6881965222a50f0e08eb31f17451a5e/drowsiness-banner.png" alt="Real-Time Drowsiness Detection" width="900"/>
+  <img width="900" alt="Drowsiness Detection Application banner" src="https://github.com/user-attachments/assets/bec775df-69a2-44cb-b8c9-5728a547aa88" />
 </p>
-<img width="900" alt="drowsiness-banner" src="https://github.com/user-attachments/assets/bec775df-69a2-44cb-b8c9-5728a547aa88" />
-
 
 # Introduction :
 Driver drowsiness is one of the most underestimated causes of road accidents. Unlike speeding or drunk driving, fatigue develops gradually and often goes unnoticed by the driver. This project focuses on detecting early signs of drowsiness using computer vision techniques and providing timely alerts to reduce the risk of accidents.
@@ -61,6 +59,7 @@ Improved alert mechanisms (audio + vibration)
 
 # Timeline :
 September 2024 - December 2025
+
 
 
 
