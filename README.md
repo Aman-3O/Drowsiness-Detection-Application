@@ -1,5 +1,10 @@
 # Real-Time Drowsiness Detection Application
 
+<p align="center">
+  <img src="assets/drowsiness-banner.png" alt="Real-Time Drowsiness Detection" width="900"/>
+</p>
+
+
 # Introduction :
 Driver drowsiness is one of the most underestimated causes of road accidents. Unlike speeding or drunk driving, fatigue develops gradually and often goes unnoticed by the driver. This project focuses on detecting early signs of drowsiness using computer vision techniques and providing timely alerts to reduce the risk of accidents.
 
@@ -55,6 +60,7 @@ Improved alert mechanisms (audio + vibration)
 
 # Timeline :
 September 2024 - December 2025
+
 
 
 
