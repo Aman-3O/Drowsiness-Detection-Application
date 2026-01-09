@@ -58,7 +58,8 @@ Mobile application deployment
 Improved alert mechanisms (audio + vibration)
 
 # Timeline :
-September 2024 - December 2025
+2024 - 2025
+
 
 
 
