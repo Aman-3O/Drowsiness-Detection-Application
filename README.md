@@ -1,7 +1,7 @@
 # Real-Time Drowsiness Detection Application
 
 <p align="center">
-  <img src="Assets/drowsiness-banner.png" alt="Real-Time Drowsiness Detection" width="900"/>
+  <img src="https://github.com/Aman-3O/Personal-Resource/blob/eff55fa8f6881965222a50f0e08eb31f17451a5e/drowsiness-banner.png" alt="Real-Time Drowsiness Detection" width="900"/>
 </p>
 
 
@@ -60,6 +60,7 @@ Improved alert mechanisms (audio + vibration)
 
 # Timeline :
 September 2024 - December 2025
+
 
 
 
